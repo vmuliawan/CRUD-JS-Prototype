@@ -1,0 +1,12 @@
+#spoiler{
+    display: none;
+}
+
+#close{
+    margin-left: 1rem;
+    cursor: pointer;
+}
+
+.adds{
+    margin-bottom: 1rem;
+}
